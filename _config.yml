@@ -1,0 +1,28 @@
+name: Yudu Gray
+favicon: null
+layout_spectrum: 0.5308430490549654
+typography_spectrum: 0.07651135418564081
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.17081432370468974
+  lightness: 0.1755402279086411
+  saturation: 0.6372354051563889
+  rhythmicContrast: 0.011847329325973988
+purpose: []
